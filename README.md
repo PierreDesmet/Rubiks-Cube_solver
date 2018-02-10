@@ -8,4 +8,5 @@ Les faces doivent être renseignées de gauche à droite, du haut vers le bas. L
 <img src='insertion.png'>
 
 La résolution se fait d'abord sur les arêtes, puis sur les coins. Il suffit de suivre la séquence de mouvements qui s'affiche à l'écran.
+
 <img src='resolution.png'>
